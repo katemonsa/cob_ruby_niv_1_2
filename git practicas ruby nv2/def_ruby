@@ -1,0 +1,41 @@
+def 
+es una palabra reservada que indica  que una nueva función 
+está siendo definida. Luego viene una función con un nombre válido 
+de tu elección. Los nombres válidos empiezan con una letra o un guion bajo, 
+pero pueden incluir números.
+
+each_with_index
+usará y encontrará varias estructuras de datos,
+ incluidas matrices y hash. Eventualmente, querrá iterar 
+ a través de cada elemento en una matriz o hash para extraer 
+ o transformar la información en estas estructuras de datos. 
+ La capacidad de atravesar un objeto se llama enumeración.
+
+inspect
+ayudar a obtener información sobre objetos vivos como módulos, 
+clases, métodos, funciones, tracebacks, objetos de marco y objetos de código.
+
+each
+recibe una función que es la que se tiene que ejecutar para cada elemento y
+ dentro de esa función con la variable " this " tenemos una referencia a ese 
+ elemento del DOM. Adicionalmente, la función que se envía a each() , puede 
+ recibir un parámetro que es el índice actual sobre el que se está iterando.
+
+do 
+sirve para marcar el inicio del ciclo. 
+
+length.to_f
+saber la longitud del arreglo
+ osea de q tamaño es y con to_f lo  convierte en decimal 
+
+gsub
+reemplaza los elementos como los 3 por o q encuentre en una oracion
+
+join
+es el contrario de un sleep  
+
+chars
+permite delvolver un carater diferente convirtiendo las letras en posiciones 
+
+strip
+borra espacios y deja el valor ingresado 

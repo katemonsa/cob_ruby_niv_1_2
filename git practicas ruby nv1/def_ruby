@@ -1,0 +1,10 @@
+gets.chomp.to_i
+
+gets.chomp
+chomp es un método para strings y
+ gets almacena strings que provienen del teclado.
+
+gets.chomp.to_f
+
+.shuffle.inspect
+
